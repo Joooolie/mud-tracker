@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mud-tracker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b75f4f2f6474c1403a036c0fa04be57e9d2b014")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05ca4ea1922d80d37a77ee2a65949403d173c777")]
 [assembly: System.Reflection.AssemblyProductAttribute("mud-tracker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mud-tracker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
