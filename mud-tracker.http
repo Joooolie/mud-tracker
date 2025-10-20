@@ -1,0 +1,6 @@
+@mud_tracker_HostAddress = http://localhost:5286
+
+GET {{mud_tracker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
